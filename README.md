@@ -48,7 +48,7 @@
 
 ## 🚀 React Front-End Link <a name="frontend-link"></a>
 
-- [React Front-End Link](https://github.com/serengia/hello-rails-backend)
+- [React Front-End Link](https://github.com/serengia/hello-rails-frontend)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -70,7 +70,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone git@github.com:Elhambasir/Hello-Rails-Back-End.git
+  git clone https://github.com/serengia/hello-rails-backend.git
 ```
 
 ### Install
@@ -78,7 +78,7 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```sh
-  cd Hello-Rails-Back-End
+  cd hello-rails-backend
   bundle install
 ```
 
